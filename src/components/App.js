@@ -5,7 +5,9 @@ import './../styles/App.css';
 const App = () => {
   return (
     <div>
-        {/* Do not remove the main div */}
+        <p>Enter your name:</p>
+        <input id="name"></input>
+        
     </div>
   )
 }
